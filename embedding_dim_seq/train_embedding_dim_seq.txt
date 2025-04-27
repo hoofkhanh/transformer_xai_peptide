@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/phuongthao888/embedding-dim-seq-datatrain
