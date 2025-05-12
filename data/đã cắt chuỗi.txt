@@ -1,0 +1,7 @@
+GenBank: 
+	AMP: https://www.kaggle.com/datasets/phuongthao888/amp-genbank-dacatchuoi
+	nAMP: https://www.kaggle.com/datasets/phuongthao888/namp-genbank-dacatchuoi
+
+notGenBank:
+	AMP: https://www.kaggle.com/datasets/phuongthao888/amp-notgenbank-dacatchuoi
+	nAMP: https://www.kaggle.com/datasets/phuongthao888/namp-notgenbank-dacatchuoi
