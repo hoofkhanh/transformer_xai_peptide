@@ -1,7 +1,0 @@
-GenBank: 
-	AMP: https://www.kaggle.com/datasets/phuongthao888/csv-amp-genbank
-	nAMP: https://www.kaggle.com/datasets/phuongthao888/csv-namp-genbank
-
-notGenBank:
-	AMP: https://www.kaggle.com/datasets/phuongthao888/csv-amp-notgenbank
-	nAMP: https://www.kaggle.com/datasets/phuongthao888/csv-namp-notgenbank
